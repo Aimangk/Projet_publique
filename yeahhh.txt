@@ -1,2 +1,8 @@
 Edit freuuure
-t'as rien fait du tout 
+<<<<<<< HEAD 
+=======
+T'as les cramptés
+arrête tes bêtises là normalement tu vois pas le message vu que tu n'as pas pull
+T'as rien fait du tout
+>>>>>>> 9c5dbc1e9a5c938b8313e367c9f6987c0f26f354
+
